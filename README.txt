@@ -4,7 +4,8 @@ En la carpeta del proyecto, haz clic derecho y selecciona Abrir en terminal, o t
 
 * Abre PowerShell como administrador desde el menú Inicio
 
-* Navega a la carpeta de tu proyecto con el siguiente comando, reemplazando \[ruta\_de\_tu\_proyecto] por la ubicación real:
+* Navega a la carpeta de tu proyecto con el siguiente comando, reemplazando \[ruta\_de\_tu\_proyecto] por la ubicación real (/tetris
+/juego/):
   cd \[ruta\_de\_tu\_proyecto]
 
 * Una vez dentro de la carpeta del proyecto, crea el entorno virtual con:
